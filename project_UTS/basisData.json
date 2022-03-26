@@ -1,0 +1,198 @@
+{
+  "jadwal": [
+    {
+      "id": 1,
+      "pelabuhanAwal": "Merak",
+      "pelabuhanTujuan": "Bakauheni",
+      "tgl": "Kamis, 21 Mei 2020",
+      "jam": "20.15"
+    },
+    {
+      "id": 2,
+      "pelabuhanAwal": "Bakauheni",
+      "pelabuhanTujuan": "Merak",
+      "tgl": "Kamis, 22 Mei 2021",
+      "jam": "19.00"
+    },
+    {
+      "id": 3,
+      "pelabuhanAwal": "Tanjung Mas",
+      "pelabuhanTujuan": "Guluk",
+      "tgl": "Kamis, 22 Mei 2021",
+      "jam": "19.00"
+    },
+    {
+      "id": 4,
+      "pelabuhanAwal": "Guluk",
+      "pelabuhanTujuan": "Tanjung Mas",
+      "tgl": "Kamis, 22 Mei 2021",
+      "jam": "19.00"
+    },
+    {
+      "id": 5,
+      "pelabuhanAwal": "Kalianget",
+      "pelabuhanTujuan": "Kalimas",
+      "tgl": "Kamis, 22 Mei 2021",
+      "jam": "19.00"
+    },
+    {
+      "id": 6,
+      "pelabuhanAwal": "Kalimas",
+      "pelabuhanTujuan": "Kalianget",
+      "tgl": "Kamis, 22 Mei 2021",
+      "jam": "19.00"
+    }
+  ],
+
+  "daftarPembatalan": [
+    {
+      "id": 1,
+      "pelabuhanAwal": "Merak",
+      "pelabuhanTujuan": "Bakauheni",
+      "tgl": "Kamis, 21 Mei 2020",
+      "jam": "20.15"
+    },
+    {
+      "id": 2,
+      "pelabuhanAwal": "Bakauheni",
+      "pelabuhanTujuan": "Merak",
+      "tgl": "Kamis, 22 Mei 2021",
+      "jam": "19.00"
+    },
+    {
+      "id": 3,
+      "pelabuhanAwal": "Tanjung Mas",
+      "pelabuhanTujuan": "Guluk",
+      "tgl": "Kamis, 22 Mei 2021",
+      "jam": "19.00"
+    },
+    {
+      "id": 4,
+      "pelabuhanAwal": "Guluk",
+      "pelabuhanTujuan": "Tanjung Mas",
+      "tgl": "Kamis, 22 Mei 2021",
+      "jam": "19.00"
+    },
+    {
+      "id": 5,
+      "pelabuhanAwal": "Kalianget",
+      "pelabuhanTujuan": "Kalimas",
+      "tgl": "Kamis, 22 Mei 2021",
+      "jam": "19.00"
+    },
+    {
+      "id": 6,
+      "pelabuhanAwal": "Kalimas",
+      "pelabuhanTujuan": "Kalianget",
+      "tgl": "Kamis, 22 Mei 2021",
+      "jam": "19.00"
+    }
+  ],
+
+  "daftarPemesanan": [
+    {
+      "id": 1,
+      "pelabuhanAwal": "Merak",
+      "pelabuhanTujuan": "Bakauheni",
+      "tgl": "Kamis, 27 Mei 2020",
+      "jam": "20.15",
+      "layanan": "Ekspres",
+      "kategori": "Dewasa",
+      "nama": "Doni",
+      "umur": "27",
+      "identitas": "KTP"
+    },
+    {
+      "id": 2,
+      "pelabuhanAwal": "Bakauheni",
+      "pelabuhanTujuan": "Merak",
+      "tgl": "Kamis, 27 Mei 2020",
+      "jam": "20.15",
+      "layanan": "Normal",
+      "kategori": "Anak-anak",
+      "nama": "Andi",
+      "umur": "27",
+      "identitas": "KTP"
+    },
+    {
+      "id": 3,
+      "pelabuhanAwal": "Kalianget",
+      "pelabuhanTujuan": "Tanjung Mas",
+      "tgl": "Kamis, 27 Mei 2020",
+      "jam": "20.15",
+      "layanan": "Ekspres",
+      "kategori": "Dewasa",
+      "nama": "Doni",
+      "umur": "27",
+      "identitas": "KTP"
+    },
+    {
+      "id": 4,
+      "pelabuhanAwal": "Tanjung Mas",
+      "pelabuhanTujuan": "Kalianget",
+      "tgl": "Kamis, 27 Mei 2020",
+      "jam": "20.15",
+      "layanan": "Normal",
+      "kategori": "Anak-anak",
+      "nama": "Andi",
+      "umur": "27",
+      "identitas": "KTP"
+    }
+  ],
+  "riwayatPemesanan": [
+    {
+      "id": 1,
+      "pelabuhanAwal": "Merak",
+      "pelabuhanTujuan": "Bakauheni",
+      "tgl": "Kamis, 27 Mei 2020",
+      "jam": "20.15",
+      "layanan": "Ekspres",
+      "kategori": "Dewasa",
+      "nama": "Doni",
+      "umur": "27",
+      "identitas": "KTP",
+      "harga": "65.000"
+    },
+    {
+      "id": 2,
+      "pelabuhanAwal": "Bakauheni",
+      "pelabuhanTujuan": "Merak",
+      "tgl": "Kamis, 27 Mei 2020",
+      "jam": "20.15",
+      "layanan": "Normal",
+      "kategori": "Anak-anak",
+      "nama": "Andi",
+      "umur": "27",
+      "identitas": "KTP",
+      "harga": "65.000"
+    },
+    {
+      "id": 3,
+      "pelabuhanAwal": "Kalianget",
+      "pelabuhanTujuan": "Tanjung Mas",
+      "tgl": "Kamis, 27 Mei 2020",
+      "jam": "20.15",
+      "layanan": "Ekspres",
+      "kategori": "Dewasa",
+      "nama": "Doni",
+      "umur": "27",
+      "identitas": "KTP",
+      "harga": "65.000"
+    },
+    {
+      "id": 4,
+      "pelabuhanAwal": "Tanjung Mas",
+      "pelabuhanTujuan": "Kalianget",
+      "tgl": "Kamis, 27 Mei 2020",
+      "jam": "20.15",
+      "layanan": "Normal",
+      "kategori": "Anak-anak",
+      "nama": "Andi",
+      "umur": "27",
+      "identitas": "KTP",
+      "harga": "65.000"
+    }
+  ],
+  "layanan": ["Expres", "Normal"],
+  "kategori": ["Dewasa", "Anak-anak"]
+}
