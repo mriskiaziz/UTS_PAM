@@ -7,7 +7,7 @@ Kelas : PAM RC <br><br>
 Link Download Aplikasi : https://drive.google.com/file/d/1Qg1cPT7fk5ufeO7NNqTEmoRcuIvl6gAl/view?usp=sharing <br>
 Limk Video Demo : https://youtu.be/h9f-lT-zpaQ <br>
 
-![](Screenshots/ss-banyak.png)
+![](Screenshots/ss banyak.png)
 
 ## Instalasi
 
