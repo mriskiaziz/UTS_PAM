@@ -22,12 +22,12 @@ Limk Video Demo : https://youtu.be/h9f-lT-zpaQ <br>
 
 ## Deskripsi Aplikasi
 
-• Aplikasi digunakan untuk proses pemesanan tiket kapal untuk mereka <br> yang akan menyebrang antar pelabuhan <br>
+• Aplikasi digunakan untuk proses pemesanan tiket kapal untuk mereka yang akan menyebrang antar pelabuhan <br>
 • Aplikasi terdiri dari 4 menu yaitu Beranda, Daftar Pemesanan, Daftar Pembatalan dan Lainnya <br>
 • Beranda merupakan menu awal aplikasi, yang berisikan prosesi pemesanan tiket <br>
 • Daftar Pemesanan merupakan menu yang menampilkan history dari pemesanan tiket <br>
 • Daftar Pembatalan merupakan menu yang digunakan untuk membatalakan pemesanan jika tiket yang dipesan salah <br>
-• Lainnya merupakan menu yang terdiri dari profile (untuk melihat <br> profile pengguna), Cek Pemesanan (untuk mengecek pemesanan) <br>,hubungi kami (untuk terhubung ke customer service jika terdapat <br> masalah pemesanan) dan riwayat pemesanan (untuk melihat history pemesanan)
+• Lainnya merupakan menu yang terdiri dari profile (untuk melihat <br> profile pengguna), Cek Pemesanan (untuk mengecek pemesanan), hubungi kami (untuk terhubung ke customer service jika terdapat masalah pemesanan) dan riwayat pemesanan (untuk melihat history pemesanan)
 
 ## Cara Kerja Aplikasi
 
